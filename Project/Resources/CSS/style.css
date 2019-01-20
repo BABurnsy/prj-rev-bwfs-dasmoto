@@ -1,0 +1,54 @@
+html *
+{
+   font-family: Helvetica !important;
+}
+
+p{
+  font-weight: normal;
+  font-size: 20px;
+}
+
+.banner
+
+div.image{
+  content:url("file:///C:/Projects/Dasmoto's%20Arts%20&%20Crafts/Project/Resources/Images/pattern.jpeg")
+}
+
+.container{
+  height: 125px;
+  width: auto;
+  background-image: url("file:///C:/Projects/Dasmoto's%20Arts%20&%20Crafts/Project/Resources/Images/pattern.jpeg")
+}
+
+h1{
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+}
+
+h2{
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: mediumspringgreen;
+}
+
+h3{
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: lightcoral;
+}
+
+h4{
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: skyblue;
+  }
+
+h5{
+  font-size: 24px;
+  font-weight: bold;
+}
